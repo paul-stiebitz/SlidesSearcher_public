@@ -1,0 +1,36 @@
+The image is a slide from a presentation about IBM Power Shared Utility Capacity, which explains how it works and what servers can be deployed with it. The slide is divided into three main sections: "How it works," "Which servers?" and "IBM Cloud Management Console with HMC."
+
+### How it works:
+- **Purchase servers with Base capacity:** This section explains that customers can purchase servers with base capacity.
+- **Variable demand addressed by buying Capacity Credits for Metered capacity:** It mentions that variable demand can be addressed by purchasing Capacity Credits for Metered capacity.
+
+### Which servers?
+- **Deploy across a pool of Power9 or Power10 systems:** This section indicates that the servers can be deployed across a pool of Power9 or Power10 systems.
+
+### Additional Information:
+- **Pool #1** is highlighted in blue, indicating that it is the Metered capacity.
+- **System A** and **System B** are shown on the left side, with System C being part of the Pool #1.
+- **System A** and **System B** have a mix of Base and Metered capacity.
+- **System C** is entirely in the Metered capacity pool.
+- **IBM Cloud Management Console with HMC automatically monitors and debits against Capacity Credits for actual resource usage by the minute.**
+
+### Visual Elements:
+- The background features an image of a building with a blue sky, possibly representing IBM's headquarters or a related infrastructure.
+
+### Analysis:
+This slide provides a clear explanation of IBM Power Shared Utility Capacity, detailing how it manages variable demand through the use of Base and Metered capacity. The system allows customers to deploy servers across pools of Power9 or Power10 systems, with the ability to monitor and adjust capacity credits based on actual usage. The IBM Cloud Management Console with HMC ensures efficient management and billing.
+
+### Answering Potential Questions:
+1. **What is IBM Power Shared Utility Capacity?**
+   - IBM Power Shared Utility Capacity is a service that allows customers to manage variable demand by purchasing Base and Metered capacity. It uses IBM Cloud Management Console with HMC to monitor and debit against Capacity Credits for actual resource usage by the minute.
+
+2. **How does it work?**
+   - Customers purchase servers with Base capacity. Variable demand is addressed by buying Capacity Credits for Metered capacity. Servers can be deployed across pools of Power9 or Power10 systems.
+
+3. **What servers can be deployed?**
+   - Servers can be deployed across a pool of Power9 or Power10 systems.
+
+4. **How is capacity managed?**
+   - Capacity is managed using IBM Cloud Management Console with HMC, which automatically monitors and debits against Capacity Credits for actual resource usage by the minute.
+
+By providing these details, the slide effectively communicates the functionality and benefits of IBM Power Shared Utility Capacity, making it easier for potential customers to understand and utilize the service.

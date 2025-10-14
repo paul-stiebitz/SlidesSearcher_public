@@ -1,0 +1,18 @@
+This image is a screenshot of a webpage that announces the integration of IBM Power with the Ansible Automation Platform. The page highlights that IBM Power has been added to the Certified Integrations section of the Red Hat Ansible Web site.
+
+Key points from the image include:
+
+1. **Announcement**: IBM Power has been added to the Certified Integrations section of the Red Hat Ansible Web site.
+2. **Downloads (May 2022)**: A table lists various Ansible modules for IBM Power along with their respective downloads in May 2022:
+   - **AIX Collection**: 55,685 downloads
+   - **HMC Collection**: 23,136 downloads
+   - **IBM i Collection**: 14,433 downloads
+   - **VIOS Collection**: 14,596 downloads
+   - **Linux on Power Collection**: TBD (To Be Determined)
+   - **PowerHA Collection**: Coming Soon
+   - **Oracle on Power Collection**: Coming Soon
+   - **SAP on Power Collection**: Coming Soon
+
+3. **Certified Integration**: There is a mention of "IBM is a Certified Ansible Automation Partner" and a link to "View Release."
+
+The background of the image is black, and there is a logo of IBM at the top right corner. The overall design is clean and informative, focusing on the integration details and available resources.

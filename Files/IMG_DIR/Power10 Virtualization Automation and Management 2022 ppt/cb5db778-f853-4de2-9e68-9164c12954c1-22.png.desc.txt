@@ -1,0 +1,15 @@
+This image is a slide from a presentation about the new features and enhancements in PowerVC 2.0.3. The slide highlights several key updates:
+
+1. **Scale PowerVC manager up to 5-node cluster**: This feature allows users to expand their PowerVC management environment to include five nodes, enhancing scalability and redundancy.
+
+2. **Backup and restore for multi-node management**: The slide mentions support for backing up and restoring data across multiple nodes, which is crucial for maintaining data integrity and availability.
+
+3. **Scheduled tasks for self-service users**: This feature enables users to schedule tasks that can be executed automatically, improving efficiency and reducing manual intervention.
+
+4. **UI performance and design enhancements**: The interface has been optimized for better user experience, with improved performance and a more intuitive design.
+
+5. **Support for registration when endpoint is down**: In case an endpoint becomes unavailable, the system can still register it, ensuring continuous operation without downtime.
+
+6. **Update managed endpoint IP or VIP address**: This feature allows users to easily update the IP addresses or VIP (Virtual IP) addresses of managed endpoints, facilitating changes and maintenance.
+
+The right side of the slide shows a screenshot of the PowerVC dashboard, which includes various metrics and graphs, indicating the operational status and performance of the system.

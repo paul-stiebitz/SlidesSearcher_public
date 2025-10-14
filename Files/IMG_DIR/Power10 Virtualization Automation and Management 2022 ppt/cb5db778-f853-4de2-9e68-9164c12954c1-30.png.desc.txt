@@ -1,0 +1,18 @@
+This image is a slide from a presentation that highlights the enhancements provided by Power software updates for new Power10 models. The slide lists several updates and versions:
+
+1. **HMC and vHMC V10R1M1020**
+   - This refers to the High-Performance Management Console (HMC) and Virtualized High-Performance Management Console (vHMC) version 10.1.1.0.
+
+2. **Cloud Management Console (CMC) 1.17**
+   - This indicates an update to the Cloud Management Console version 1.17.
+
+3. **PowerVM 3.1.3 SP**
+   - This is an update to the PowerVM version 3.1.3 with Service Pack (SP).
+
+4. **(includes VIOS 3.1.3 SP)**
+   - This includes an update to the Virtual Infrastructure Operating System (VIOS) version 3.1.3 with Service Pack.
+
+5. **PowerVC 2.0.3**
+   - This is an update to the Power Virtualization Controller (PowerVC) version 2.0.3.
+
+The slide also features a logo in the top right corner, which appears to be related to the Power10 series of products.

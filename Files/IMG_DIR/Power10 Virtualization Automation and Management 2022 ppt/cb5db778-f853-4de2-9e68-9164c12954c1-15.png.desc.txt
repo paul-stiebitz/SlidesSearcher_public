@@ -1,0 +1,37 @@
+This image is an informational slide about the IBM Cloud Management Console (CMC). Here's a detailed description:
+
+### Title:
+- **IBM Cloud Management Console (CMC)**
+
+### Description:
+- The IBM Cloud Management Console (CMC) is described as a SaaS-based manager that provides a consolidated view of Power-based deployments across multiple regions and datacenters.
+- It offers a comprehensive inventory of systems and virtualized resources, consolidated performance data to optimize utilization and performance across multiple Power-based data centers, and aggregated logging information for additional insights.
+
+### Key Features:
+1. **Patch Planning:**
+   - Consolidated, easy-to-navigate views of code levels across your Power environment and available updates.
+   - Create a patch plan with all stakeholders.
+
+2. **Performance:**
+   - Monitor the performance of your Power environment.
+   - For systems, partitions, and shared storage pools, view real-time metrics and monitor data center efficiency with energy metrics.
+
+3. **Inventory:**
+   - Monitor the health status of all the resources in your Power environment.
+   - Refresh and update your resource inventory to find what you need.
+   - Select any resource to filter the status information for that resource.
+
+4. **Logging:**
+   - Use the Logging application to get insights into your data center.
+   - View PowerVM Virtualization actions such as Live Migration, Snapshot, Remote Restart (RPR), and Partition Lifecycle.
+
+### Additional Information:
+- CMC is delivered as a SaaS offering from the IBM Cloud.
+- It provides convenient pay-as-you-go multi-cloud management.
+- A one-year CMC entitlement is included with Power E1080 servers.
+
+### Visual Elements:
+- The slide includes icons and labels for each feature section.
+- There is a circular icon with the number 10 in the top right corner, possibly indicating a step or version number.
+
+This slide aims to provide a clear overview of the features and benefits of the IBM Cloud Management Console (CMC) for managing Power-based deployments.

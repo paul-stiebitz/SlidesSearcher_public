@@ -1,0 +1,15 @@
+This image is a slide from a presentation that explains how PowerVM delivers virtualization benefits. The slide is titled "How PowerVM delivers virtualization benefits." It outlines the steps to deploy a virtualized workload with PowerVM and lists several benefits of using PowerVM for virtualizing workloads.
+
+### Steps to Deploy a Virtualized Workload with PowerVM:
+1. **Create a new PowerVM virtual machine (VM).**
+2. **Install the operating system (AIX, IBM i or Linux) in the VM.**
+3. **Install the workload application(s) in the VM.**
+4. **Configure the operating system and applications as required.**
+
+### Benefits of Virtualizing Workloads with PowerVM:
+- **Extreme consolidation:** Many diverse workloads can be hosted on one server.
+- **Rapid provisioning:** Deploying a ready-to-run workload is quick and easy.
+- **High scalability:** Deploying multiple copies of a workload type is simplified.
+- **Easy recoverability:** Restoring a workload after an outage is fast and reliable.
+
+The slide also includes a logo for PowerVM and mentions "Power Systems Software™" along with a list of related products or services under the headings: Management, Security, Availability, Operating Systems, and Virtualization.

@@ -1,0 +1,37 @@
+This image is a screenshot of a presentation slide titled "Cloud Management Console 1.17." The slide outlines various updates and features introduced in this version of the Cloud Management Console, which is likely related to IBM Cloud services. Here's a detailed description of the content:
+
+### Title:
+- **Cloud Management Console 1.17**
+
+### Features and Updates:
+
+1. **Hybrid Cloud Inventory and Monitoring of PowerVS VMs:**
+   - Alerts and notifications for inventory and patch planning.
+   - Addition of an include list option for monitoring systems.
+
+2. **Infrastructure and Cloud Connector Updates:**
+   - Support for handling different application programming interface (API) keys for IBM Cloudant.
+
+3. **Chargeback (one-minute interval) and Post-Pay for IBM Power Private Cloud Metered Capacity:**
+   - This feature allows for more granular billing and payment options for cloud resources.
+
+4. **Accessibility Compliance:**
+   - Angular update to the latest supported level for currency.
+
+5. **Filebeat and Logstash Update for Currency:**
+   - This update ensures that the system can process and log financial data effectively.
+
+6. **Purge Option for Logging Data:**
+   - Provides a way to clean up old or unnecessary logging data, improving storage efficiency.
+
+7. **Red Hat CoreOS (OpenShift) Metering:**
+   - Integration with Red Hat CoreOS for enhanced metering capabilities within OpenShift environments.
+
+### Additional Information:
+- There is a section on the right side of the slide showing a dashboard with core usage metrics for April 2018, broken down by day and week. The dashboard includes graphs and tables displaying resource usage, budget, and other relevant metrics.
+
+### Visual Elements:
+- The slide has a clean, professional design with a black background and white text.
+- The right side of the slide features a colorful bar graph and a pie chart, providing visual representations of the data.
+
+Overall, this slide provides a comprehensive overview of the key features and improvements introduced in the Cloud Management Console 1.17 version, highlighting its capabilities in managing hybrid cloud environments, monitoring infrastructure, and enhancing user experience through various updates and integrations.

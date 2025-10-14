@@ -1,0 +1,39 @@
+This image is a slide from a presentation about the IBM Power HMC 7063-CR2 server. The slide provides detailed specifications and features of the server, organized into several sections:
+
+### Specifications:
+- **Form Factor:** 19" Rack, 1 Socket 1U Form Factor
+- **Power:** One Power9 chip with 6 cores, 130W
+- **Memory:** 128 GB Max memory (16, 32 GB RDIMMS)
+- **Storage:** 2 x 1.8TB SAS SSDs
+- **Network:** 2 x 10 Gb Ethernet ports on optional PCI adapter
+- **Ports:** Two USB 3.0 hub ports in front of the server (option to remove), Two USB 3.0 hub ports in the rear of the server
+
+### Additional Features:
+- **RAAS:**
+  - Concurrent maintenance disks
+  - Redundant Hot plug 900W power supplies
+  - Redundant cooling with Hot Swap capability
+  - Simplified Op panel
+  - In-rack system service
+
+### Customer Support:
+- **Customer Setup and Install**
+- **IBM Service/Support**
+
+### Technical Details:
+- **HMC Code Level:** V10R1M1020
+  - Manages Power8, Power9, or Power10 servers
+  - No support for servers using Power7 processor-based systems on this code level – three generations of Power servers are supported
+
+### Rail Features:
+- **Two Rail Features Available:**
+  - Fixed Length Rail Kit
+    - Required if rack ship
+    - Rack (S42, T42, T00)
+  - Adjustable Length Rail Kit
+
+### Compatibility:
+- **7063-CR2 compatible with flat panel console kits 7316-TF3, TF4, and TF5**
+- **7316-TF3 and TF4 have both been withdrawn from market**
+
+The slide also includes icons and bullet points to highlight key information, making it easy to quickly scan and understand the main features and specifications of the IBM Power HMC 7063-CR2 server.

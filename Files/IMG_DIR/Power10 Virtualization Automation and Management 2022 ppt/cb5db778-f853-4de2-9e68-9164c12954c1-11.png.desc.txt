@@ -1,0 +1,33 @@
+This image is an informational slide about IBM Power vHMC, which stands for Virtualized Hardware Management Console. Here's a detailed description:
+
+### Title:
+- **IBM Power vHMC**
+
+### Description:
+- **IBM Power vHMC** is a pre-built virtual machine (VM) that offers identical Power server management capabilities to the physical HMC appliance.
+
+### Features:
+- **Available for popular virtualization platforms on x86 or Power**: The vHMC is compatible with various virtualization platforms.
+- **The vHMC is updated in alignment with physical HMC and Power firmware updates**: This ensures that the virtual environment remains synchronized with the physical hardware.
+
+### Deployment Options:
+- **Single vHMC**
+  - **5765-HMW (x86)**: A specific version of the vHMC for x86 architecture.
+  - **VMware, KVM or Xen**: Compatibility with different virtualization technologies.
+  - **5765-HMB (Power)**: Another specific version for Power architecture.
+  - **PowerVM**: A specific version for PowerVM.
+
+- **Deployment options**:
+  - **Single HMC**: Deploying a single vHMC instance.
+  - **Dual HMC**: Deploying two vHMC instances.
+  - **Mixed: HMC and vHMC**: Combining both physical HMC and virtual vHMC instances.
+
+### Additional Information:
+- **IBM Power customers can download the latest vHMC version and simply launch the VM, without the need for guest OS installation**.
+- **After connecting to the managed Power server(s), vHMC operation is identical to using the HMC**.
+
+### Visual Elements:
+- The slide includes a screenshot of the IBM Power vHMC interface, showing the menu and options available within the virtual console.
+
+### Summary:
+This slide provides an overview of IBM Power vHMC, highlighting its compatibility, deployment options, and ease of use for managing Power servers through virtual means.

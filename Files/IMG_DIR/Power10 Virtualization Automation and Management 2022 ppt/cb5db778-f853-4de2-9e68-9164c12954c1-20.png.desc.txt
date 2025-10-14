@@ -1,0 +1,21 @@
+This image is a promotional slide for IBM PowerVC, highlighting its capabilities in managing virtual machines (VMs) across the complete lifecycle. The slide emphasizes that PowerVC offers comprehensive virtualization and private cloud management for IBM Power servers, along with integration with multi-cloud managers.
+
+The slide features two main sections:
+
+1. **Title and Overview:**
+   - The title at the top reads "PowerVC: Complete lifecycle management for VMs."
+   - Below the title, there is a brief description stating, "PowerVC provides comprehensive virtualization and private cloud management for Power servers and integration with multi-cloud managers."
+
+2. **Dashboard and Hosts Section:**
+   - On the right side of the slide, there is a dashboard interface showcasing various metrics related to hosts and storage.
+   - The dashboard includes:
+     - A section labeled "Hosts" with a health status indicator showing 75%.
+     - A section labeled "Storage" with health status indicators for different storage components, such as 80% for one component and 60% for another.
+   - There are also circular gauges displaying specific metrics like "160," "5," and "1,000," which likely represent different performance or resource utilization metrics.
+
+3. **Visual Elements:**
+   - The slide uses a dark background with white and light blue text for clarity.
+   - There are icons and labels indicating different sections and functionalities within the dashboard.
+   - The overall design is clean and professional, focusing on providing a clear view of the system's capabilities and metrics.
+
+This slide effectively communicates the advanced features and benefits of IBM PowerVC, emphasizing its role in managing VMs and integrating with multi-cloud environments.

@@ -1,0 +1,14 @@
+This image is a screenshot of a presentation slide titled "IBM Power vHMC Free Trial Download." The slide provides information on how to download the IBM Power Virtualized Hardware Management Console (vHMC) for a free trial. Here are the key points from the slide:
+
+1. **Power vHMC trial linked from Trials section of IBM Power Web site**:
+   - The link provided is: `https://www.ibm.com/it-infrastructure/power`
+
+2. **Download requires acceptance of clickthrough license agreement**:
+   - The link to accept the license agreement is: `https://www.ibm.com/account/reg/us-en/signup?formid=uxr-50076`
+
+3. **Try/Buy license allows seamless transition to production deployment**:
+   - This suggests that users can either try the software or purchase it directly, facilitating a smooth transition to production use.
+
+The slide also includes an image of the IBM Power vHMC download page, showing the download options and instructions. There is a red arrow pointing to the "Download" button on the download page, indicating where to proceed with the download process.
+
+Overall, the slide aims to guide users through the steps to obtain the IBM Power vHMC for a free trial, emphasizing the importance of accepting the license agreement and the option to transition to a paid license if needed.

@@ -1,0 +1,12 @@
+This image is an advertisement for Ansible, a tool used for automating repetitive IT management tasks. The key points highlighted in the image include:
+
+1. **Rolling out system software updates**: Ansible can automate the process of updating system software across multiple servers.
+2. **Ensuring all servers stay configured properly and meet compliance requirements**: Ansible helps maintain server configurations and ensures they comply with necessary standards.
+3. **Validating correct security baseline is in place**: Ansible can be used to ensure that security policies and baselines are consistently applied across systems.
+4. **Provisioning software stacks within SLAs**: Ansible can automate the deployment of software stacks within specified Service Level Agreements (SLAs).
+
+The advertisement also mentions two benefits:
+- **Increases productivity of AIX, IBM i, and IBM Power admins**: By automating these tasks, Ansible can significantly reduce the workload on IT administrators.
+- **Extends consistent management across multiple platforms**: Ansible supports managing different types of servers and platforms efficiently.
+
+The image uses a blue arrow pointing towards the text "Automate deployment and management," emphasizing the core functionality of Ansible in this context.

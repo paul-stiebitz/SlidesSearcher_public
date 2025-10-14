@@ -1,0 +1,46 @@
+This image is a slide from a presentation about PowerVM, which is a product developed by IBM. The slide highlights the history and evolution of PowerVM, emphasizing its roots in IBM's virtualization heritage. Here is a detailed description:
+
+### Title:
+- **PowerVM builds upon IBM’s virtualization heritage**
+- **A 50-year track record in virtualization and cloud innovation continues with PowerVM**
+
+### Timeline:
+The timeline spans from 1967 to 2022, marking significant milestones in the development of PowerVM.
+
+#### Milestones:
+1. **1967:**
+   - **IBM Research develops hypervisor that becomes VM on the mainframe**
+   
+2. **1973:**
+   - **IBM announces systems with physical partitioning**
+
+3. **1999:**
+   - **IBM announces LPAR on POWER™**
+
+4. **2004:**
+   - **IBM debuts POWER Hypervisor™ for System p™ and System i™**
+
+5. **2008:**
+   - **IBM ships PowerVM Editions**
+
+6. **2010:**
+   - **PowerVM delivers enhanced storage virtualization**
+
+7. **2014:**
+   - **PowerVM enabled for OpenStack integration**
+
+8. **2018:**
+   - **PowerVM built into all Power9 enterprise servers**
+
+9. **2022:**
+   - **PowerVM provides foundation for Power10 generation**
+
+### Additional Text:
+- **Power is virtualization without limits**
+
+### Visual Elements:
+- **PowerVM logo**: Positioned at the bottom right corner.
+- **Arrow**: A green arrow pointing to the right, indicating progression through time.
+
+### Context:
+The slide emphasizes IBM's long-standing commitment to virtualization and cloud innovation, showcasing how PowerVM has evolved over the years to become a foundational technology for future generations of IBM Power systems.

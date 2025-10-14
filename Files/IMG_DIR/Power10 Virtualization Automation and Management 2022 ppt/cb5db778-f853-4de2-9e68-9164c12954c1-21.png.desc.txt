@@ -1,0 +1,12 @@
+This image is a slide from a presentation about IBM PowerVC for Private Cloud, specifically focusing on the self-service portal feature. The slide provides an overview of the capabilities offered by this tool for cloud users requiring self-service VM provisioning and management.
+
+Key points highlighted in the slide include:
+
+1. **Simplified User Experience**: The self-service portal aims to provide a simplified user experience for developers or other Power private cloud users who need to manage their virtual machines (VMs) without needing extensive technical knowledge.
+2. **One-click Deploy Templates**: Users can deploy VM templates with just one click, making the process quick and efficient.
+3. **Approvals and Expirations**: The system supports approval workflows and expiration settings, ensuring that VMs are managed according to organizational policies.
+4. **Role-Based Access Control**: Different users have access to different resources based on their roles, enhancing security and compliance.
+5. **Project-Based Resource Isolation (Multi-Tenancy)**: Resources are isolated by project, allowing multiple projects to run concurrently without interfering with each other.
+6. **Metering and Email Notifications**: The system tracks resource usage and sends email notifications when thresholds are reached, helping users stay informed about their resource consumption.
+
+The slide also includes a screenshot of the IBM PowerVC interface, showing the deployment of an AIX72CloudVM template, which further illustrates the ease of use and functionality of the self-service portal.

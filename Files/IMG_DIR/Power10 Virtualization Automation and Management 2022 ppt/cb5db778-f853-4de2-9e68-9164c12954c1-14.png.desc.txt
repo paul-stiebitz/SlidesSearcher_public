@@ -1,0 +1,14 @@
+This image is a slide from a presentation discussing the importance of maintaining IBM Power HMC (Hardware Management Console) currency in the context of cybersecurity. The slide highlights several key points:
+
+1. **Cybersecurity as a Global Infrastructure Security Issue**: It emphasizes that cybersecurity has become a critical concern for CIOs and enterprise IT managers.
+2. **IBM Power Architecture**: The IBM Power architecture is highlighted as highly secure, ranking it among mission-critical enterprise workloads.
+3. **Current and Fully Supported HMC**: A crucial aspect of maintaining a secure IBM Power environment is ensuring that the HMC (or vHMC) is current and fully supported, including hardware, software, and firmware updates.
+4. **Outdated or Unsupported HMCs**: Outdated or unsupported HMCs are identified as posing a technology risk that can be mitigated by upgrading to a current release.
+5. **List of Specific Models**: The slide lists three specific models of IBM Power HMC:
+   - 7063-CR2 IBM Power HMC V10R1M1020
+   - 5765-VHP IBM Power vHMC V10R1M1020
+   - 5765-VHX IBM Power vHMC V10R1M1020
+
+The slide also includes a reference to an Executive Order on Improving the Nation's Cybersecurity issued by President Obama on May 13, 2012, which underscores the importance of maintaining current and supported HMCs for cybersecurity purposes.
+
+Overall, the slide serves as a reminder of the critical role that maintaining current and supported HMCs plays in ensuring the security and reliability of IBM Power systems.

@@ -1,0 +1,15 @@
+This image is a slide from a presentation that highlights the benefits of using IBM Power automation with Ansible. The slide is divided into three main sections, each with an icon and a brief description:
+
+1. **Improved efficiency via the simplification and standardization of complex IT deployments and enterprise automation strategies**:
+   - Icon: A laptop with a gear symbol inside it.
+   - Description: This section emphasizes how IBM Power automation with Ansible can enhance efficiency by simplifying and standardizing complex IT deployments and enterprise automation strategies.
+
+2. **Visibility of your automation – know what is being automated, when, and by whom**:
+   - Icon: A network or circuit symbol.
+   - Description: This section highlights the visibility feature, which allows users to track what is being automated, when it is being done, and who is responsible for it.
+
+3. **Simplicity increases productivity with certified collections that codify system-specific knowledge and complexity**:
+   - Icon: A gear symbol.
+   - Description: This section discusses the simplicity aspect, noting that certified collections can increase productivity by codifying system-specific knowledge and complexity, making automation more manageable and efficient.
+
+The slide also includes a logo at the bottom center, which appears to be related to Ansible, indicating that the content is likely from a presentation about Ansible's capabilities in IBM Power environments.

@@ -1,0 +1,16 @@
+This image is a slide from a presentation about PowerVM 3.1.3, which is a version of IBM's PowerVM virtualization software. The slide provides details about several features and certifications related to PowerVM.
+
+### Left Side:
+1. **LPM for Power10**:
+   - LPM (Logical Partitioning) between Power8/9/10 servers.
+   - Secure accelerated LPM between Power9/10 servers.
+
+2. **Active Memory Mirroring (AMM)**:
+   - With the FW1020 firmware release, AMM is now supported across all Power10 models, including scale-out servers (previously AMM was limited to high-end and midrange servers).
+
+### Right Side:
+1. **Common Criteria (CC) EAL 2**:
+   - As the focus on cybersecurity continues to intensify, PowerVM and VIOS will receive this globally-recognized security certification at the EAL 2 level.
+   - This certification provides customers with confidence in the security of the Power10 infrastructure.
+
+The slide highlights the advancements in PowerVM, particularly in terms of LPM and AMM, and mentions the upcoming EAL 2 certification, which is a significant step in enhancing the security of the Power10 infrastructure.

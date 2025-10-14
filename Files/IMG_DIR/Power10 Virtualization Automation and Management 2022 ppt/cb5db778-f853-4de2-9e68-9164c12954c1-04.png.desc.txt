@@ -1,0 +1,27 @@
+This image is a slide from a presentation titled "Power virtualization milestones for 2022." It outlines the key milestones and releases for Power virtualization products in 2022, organized by quarters.
+
+### Milestones by Quarter:
+
+#### Q1 2021:
+- **CMC 1.17**
+- **PowerVM**
+  - FW 1020 (PHYP)
+  - VIOS 3.1.3.21 SP
+  - HMC V10 R1 M1020
+  - vHMC V10 R1 M1020
+
+#### Q2 2021:
+- **PowerVC**
+  - V 2.0.3
+
+#### Q3 2021:
+- **PowerVM**
+  - V 2.0.3 (Fixpack)
+
+#### Q4 2021:
+- **AIX Enterprise Edition**
+  - v1.8
+- **Private Cloud Edition**
+  - v1.8
+
+The slide uses a timeline format with arrows pointing to each milestone, indicating the progression of these releases over the year. The background is black, and the text is primarily white, with some elements highlighted in blue. The overall design is clean and informative, focusing on the technical details of the Power virtualization products.

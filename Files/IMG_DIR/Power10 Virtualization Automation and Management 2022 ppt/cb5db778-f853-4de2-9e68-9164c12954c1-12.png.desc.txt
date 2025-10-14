@@ -1,0 +1,35 @@
+This image is a slide from a presentation titled "Power seller recommendations." It provides guidance on deploying and managing virtualized hardware management controllers (vHMCs) for power management systems. The slide is divided into two main sections: "Power vHMC formats" and "Deployment options."
+
+### Power vHMC Formats
+
+1. **5765-HMW (x86)**
+   - **VMware, KVM or Xen**
+
+2. **5765-HMB (Power)**
+   - **PowerVM**
+
+### Deployment Options
+
+- **Single vHMC**
+- **Dual vHMC**
+- **Single HMC**
+- **Mixed: HMC and vHMC**
+  - **Maximum of two per server**
+
+### vHMC Pricing ($US)
+
+- **5765-HMW (x86) - $3000**
+- **5765-HMB (Power) - $3000**
+
+### Annual SWMA Renewal
+
+- **1 year - $600**
+- **3 years - $1800**
+
+### Management Cost
+
+The slide also includes a visual representation showing the relationship between management cost and the number of vHMCs deployed. A green arrow points downward, indicating that as more vHMCs are deployed, the management cost decreases, leading to the best Total Cost of Ownership (TCO).
+
+### Summary
+
+The slide recommends using vHMCs over HMCs due to their advantages in terms of Total Cost of Ownership (TCO), convenience, and compliance. It suggests deploying either single or dual vHMCs if redundancy is required, with an option to add a physical HMC appliance for redundancy. The pricing for both x86 and Power-based vHMCs is provided, along with annual SWMA renewal costs. The slide concludes by highlighting that deploying more vHMCs reduces management costs, making it the best TCO strategy.

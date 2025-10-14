@@ -1,0 +1,21 @@
+This image is a slide from a presentation that explains how the Cloud Management Center (CMC) connects High-Performance Computing Managers (HMCs) to the cloud. The slide is divided into four main sections, each highlighting different functionalities of CMC in managing and monitoring HMCs.
+
+1. **Inventory Aggregation**:
+   - **Description**: This section emphasizes the ability to view all Power Systems, HMCs, VMs, etc., across the entire enterprise.
+   - **Details**: It mentions being able to see basic health and state information for these systems.
+
+2. **Performance Monitoring**:
+   - **Description**: This section focuses on aggregated performance across the Power enterprise.
+   - **Details**: It includes energy monitoring and OS metrics.
+
+3. **Log Trends**:
+   - **Description**: This section highlights log aggregation and telemetry capabilities.
+   - **Details**: It mentions the ability to aggregate logs and monitor trends.
+
+4. **Patch Planning**:
+   - **Description**: This section covers patch compliance reports for firmware, HMC, NovaLink, VIOS, and OS.
+   - **Details**: It also mentions scheduled maintenance plan management.
+
+The slide also includes an icon with the number 10, which might indicate a focus on the tenth point or feature in a series of points being discussed. Additionally, there is a note at the top right corner stating: "As data centers scale out and up, the need increases for a complete view of the Power infrastructure."
+
+Overall, the slide aims to convey the comprehensive capabilities of CMC in managing and monitoring high-performance computing environments.

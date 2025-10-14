@@ -1,0 +1,16 @@
+The image is a slide from a presentation titled "Power virtualization stack: Evolving with Power10." It discusses the IBM Power virtualization and automation stack, which will continue to be optimized in 2022 to support the expanding family of IBM Power10 enterprise servers. The slide highlights that this stack forms the foundation of leading Power-based public clouds and thousands of mission-critical enterprise deployments in customer datacenters worldwide.
+
+The slide also includes a diagram of the IBM Power virtualization stack, which is divided into several components:
+
+1. **Enterprise IT Automation**
+   - **Ansible**: A tool for automating tasks.
+   - **CMC (Chassis Management Controller)**: Manages the hardware of the server.
+   - **PowerVC**: Virtualization management software.
+   - **HMC (Hardware Management Console)**: Manages the hardware of the server.
+   - **NovaLink**: A network management tool.
+   - **Virtualized I/O**: Virtualized input/output systems.
+   - **PowerVM**: A hypervisor running in firmware.
+
+2. **IBM Power10 Enterprise Servers**: The base layer of the stack, where the actual servers run.
+
+The slide emphasizes the importance of this stack in supporting various deployment scenarios, including public clouds and mission-critical enterprise environments.

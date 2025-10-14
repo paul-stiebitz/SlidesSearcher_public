@@ -1,6 +1,8 @@
 <script>
-    // Redirect to login page if not logged in
+    // Check if the user is logged in by looking for the "isLoggedIn" key in sessionStorage
     if (!sessionStorage.getItem('isLoggedIn')) {
-        window.location.href = '/login.html';  // <-- point to your login file
+        // If the key does not exist or is false, redirect the user to the login page
+        // This ensures that users cannot access protected pages without logging in
+        window.location.href = '/login.html';  // <-- path to your login page
     }
 </script>

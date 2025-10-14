@@ -1,0 +1,19 @@
+This image is a slide from a presentation about PowerVC virtualization and private cloud management. The slide highlights the key features of PowerVC and PowerVC for Private Cloud, emphasizing their integration with ecosystem partners such as SAP, VMware, and Terraform.
+
+### Key Features of PowerVC:
+1. **Deploy VMs in minutes**
+2. **Full lifecycle management of VMs**
+3. **Automated VM recovery**
+4. **Single-click host evacuation**
+5. **Automated cloud optimization**
+6. **Multi-tenancy and resource isolation**
+7. **OpenStack API enablement**
+8. **Open integration with multi-cloud managers**
+
+### Key Features of PowerVC for Private Cloud:
+1. **EVERYTHING in PowerVC ... plus...**
+2. **Self-service, single-click deployment for cloud users and developers**
+3. **Policies, metering, and quota management to govern how the private cloud operates**
+4. **Web-based portal for Power private cloud management**
+
+The slide also mentions that the PowerVC API provides integration with ecosystem partners, indicating a focus on interoperability and ecosystem support.

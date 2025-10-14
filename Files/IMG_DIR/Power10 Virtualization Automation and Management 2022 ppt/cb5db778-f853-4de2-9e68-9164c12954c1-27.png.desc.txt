@@ -1,0 +1,29 @@
+This image is a slide from a presentation about the Red Hat Ansible Automation Platform 2.x for IBM Power. The slide outlines the key components and features of the platform, which was made generally available on December 2nd, 2021.
+
+### Components of the Platform:
+
+1. **Automation Controller:**
+   - **Description:** The Automation Controller is an enterprise-wide graphical management tool for managing multi-platform Ansible estates.
+   - **Supported Operating System:** x86 Linux.
+
+2. **Ansible Execution Environments:**
+   - **Description:** These environments contain Ansible Core, Python, and Collections, all containerized.
+   - **Execution Plan:** This environment is used for automation tasks.
+   - **Supported Operating System:** x86 Linux (requires podman container runtime).
+
+3. **Ansible Endpoints:**
+   - **Description:** These are enterprise-wide automation endpoints where modules are executed.
+   - **Commercial Support:** Commercial support is available from Red Hat.
+   - **New Feature:** New in Q4 2021.
+
+### Diagram:
+- The slide includes a diagram that visually represents the flow between these components:
+  - The Automation Controller is connected to the Ansible Execution Environments, which in turn are connected to the Ansible Endpoints.
+  - The diagram also shows the supported operating systems for each component (x86 Linux for the Automation Controller and Ansible Execution Environments, and IBM Power and IBM Z for the Ansible Endpoints).
+
+### Key Features:
+- **Containerization:** All components are containerized, allowing for easier deployment and management.
+- **Enterprise-Wide Management:** The platform supports managing multiple platforms within an enterprise environment.
+- **Commercial Support:** Red Hat provides commercial support for the platform.
+
+This slide provides a comprehensive overview of the Red Hat Ansible Automation Platform 2.x for IBM Power, highlighting its key components and features.
